@@ -1,0 +1,4 @@
+def VerifyAdhaarDetails()
+  {
+  Verify Adhaar details for this user
+  }
