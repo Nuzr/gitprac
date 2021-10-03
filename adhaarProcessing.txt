@@ -6,3 +6,7 @@ def getAadhaarDetails()
   {
      get adhaarr from URL https://adhaar.com
   }
+def updateAadhaardetails()
+  (
+  
+  )
