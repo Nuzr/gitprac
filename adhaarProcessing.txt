@@ -2,3 +2,7 @@ def VerifyAdhaarDetails()
   {
   Verify Adhaar details for this user
   }
+def getAadhaarDetails()
+  {
+     get adhaarr from URL https://adhaar.com
+  }
